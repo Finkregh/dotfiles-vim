@@ -13,3 +13,6 @@
 [submodule "bundle/git-branch-info"]
 	path = bundle/git-branch-info
 	url = https://github.com/Finkregh/vim-git-branch-info.git
+[submodule "bundle/autocomplpop"]
+	path = bundle/autocomplpop
+	url = https://github.com/clones/vim-autocomplpop.git
