@@ -28,3 +28,6 @@
 [submodule "bundle/pylint"]
 	path = bundle/pylint
 	url = https://github.com/rygwdn/vim-pylint.git
+[submodule "bundle/snipmate"]
+	path = bundle/snipmate
+	url = https://github.com/Finkregh/snipmate.vim.git
