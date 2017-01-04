@@ -15,7 +15,7 @@
 	url = https://github.com/vim-scripts/vcscommand.vim.git
 [submodule "bundle/l9"]
 	path = bundle/l9
-	url = https://bitbucket.org/ns9tks/vim-l9
+	url = https://bitbucket.org/ns9tks/vim-l9.git
 [submodule "bundle/pylint"]
 	path = bundle/pylint
 	url = https://github.com/rygwdn/vim-pylint.git
@@ -31,3 +31,6 @@
 [submodule "bundle/syntastic"]
 	path = bundle/syntastic
 	url = https://github.com/scrooloose/syntastic.git
+[submodule "bundle/pyflakes"]
+	path = bundle/pyflakes
+	url = git://github.com/kevinw/pyflakes-vim.git
