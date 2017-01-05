@@ -34,3 +34,9 @@
 [submodule "bundle/l9"]
 	path = bundle/l9
 	url = https://github.com/clones/vim-l9.git
+[submodule "bundle/tlib_vim"]
+	path = bundle/tlib_vim
+	url = https://github.com/tomtom/tlib_vim.git
+[submodule "bundle/vim-addon-mw-utils"]
+	path = bundle/vim-addon-mw-utils
+	url = https://github.com/MarcWeber/vim-addon-mw-utils.git
