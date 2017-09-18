@@ -49,3 +49,6 @@
 [submodule "bundle/sslsecure"]
 	path = bundle/sslsecure
 	url = https://github.com/chr4/sslsecure.vim.git
+[submodule "bundle/vim-syntastic"]
+	path = bundle/vim-syntastic
+	url = https://github.com/vim-syntastic/syntastic.git
