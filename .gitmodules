@@ -22,9 +22,6 @@
 [submodule "bundle/colors-solarized"]
 	path = bundle/colors-solarized
 	url = git://github.com/altercation/vim-colors-solarized.git
-[submodule "bundle/syntastic"]
-	path = bundle/syntastic
-	url = https://github.com/scrooloose/syntastic.git
 [submodule "bundle/pyflakes"]
 	path = bundle/pyflakes
 	url = git://github.com/kevinw/pyflakes-vim.git
@@ -49,9 +46,9 @@
 [submodule "bundle/sslsecure"]
 	path = bundle/sslsecure
 	url = https://github.com/chr4/sslsecure.vim.git
-[submodule "bundle/vim-syntastic"]
-	path = bundle/vim-syntastic
-	url = https://github.com/vim-syntastic/syntastic.git
 [submodule "bundle/vim-go"]
 	path = bundle/vim-go
 	url = https://github.com/fatih/vim-go.git
+[submodule "bundle/ale"]
+	path = bundle/ale
+	url = https://github.com/w0rp/ale.git
