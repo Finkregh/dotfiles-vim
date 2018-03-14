@@ -40,9 +40,6 @@
 [submodule "bundle/Vim-Jinja2-Syntax"]
 	path = bundle/Vim-Jinja2-Syntax
 	url = https://github.com/Glench/Vim-Jinja2-Syntax
-[submodule "bundle/ansible-vim"]
-	path = bundle/ansible-vim
-	url = https://github.com/pearofducks/ansible-vim
 [submodule "bundle/sslsecure"]
 	path = bundle/sslsecure
 	url = https://github.com/chr4/sslsecure.vim.git
